@@ -1,2 +1,3 @@
-- [![签到状态](https://github.com/p7wm/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/p7wm/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2025-12-12 18:46:20
+- [![签到状态](https://github.com/p7wm/Cloud189-Actions/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/p7wm/Cloud189-Actions/actions/workflows/main.yml) <br> 签到时间：2025-12-13 00:46:19
 - 开始执行帐号1
+- 设备ID不存在，需要二次设备校验
